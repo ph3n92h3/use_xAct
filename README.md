@@ -6,6 +6,8 @@ xAct 地址：[http://xact.es/](http://xact.es/)
 
 我在阅读 Institute of Theoretical Physics, Charles University in Prague 2018 年第一学期开设的 xAct 课程讲义时留下的内容，基础的部分没有录入。
 
+[http://xact.es/xActCourse_Prague/](http://xact.es/xActCourse_Prague/)
+
 ## learn xAct
 
 我在阅读 xAct 的子程序包的文档时所做的记录。
