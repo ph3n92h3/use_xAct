@@ -15,3 +15,5 @@ xAct 地址：[http://xact.es/](http://xact.es/)
 ## read literature
 
 我在阅读各种文献时留下的笔记，绝大多数是在按照文献的思路复现它们的结果。
+
+p.s. 一个很有帮助的教学视频：[BV1nA411N7Hm](https://www.bilibili.com/video/BV1nA411N7Hm)
